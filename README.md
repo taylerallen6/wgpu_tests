@@ -6,6 +6,8 @@ This is a small collection of example code to demonstrate the minimum requiremen
 
 Below I have list a few tutorials and examples that helped me in in understanding how to use Wgpu. They are not in any particular order, although if the are related, I will try to group them and space them out accordingly. I hope these help and I will continue to add anything that I find.
 
+### Wgpu
+
 * https://docs.rs/wgpu/latest/wgpu/
 * https://www.youtube.com/watch?v=i6WMfY-XTZE
 
@@ -18,4 +20,10 @@ Below I have list a few tutorials and examples that helped me in in understandin
 * https://blog.redwarp.app/image-filters/
 * https://github.com/redwarp/blog/tree/main/code-sample/image-filters
 
+### WGSL
+
+* https://www.w3.org/TR/WGSL/
+* https://webgpufundamentals.org/webgpu/lessons/webgpu-wgsl.html
 * https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html
+* https://github.com/paulgb/wgsl-cheat-sheet
+
