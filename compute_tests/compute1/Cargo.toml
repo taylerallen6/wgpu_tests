@@ -1,0 +1,11 @@
+[package]
+name = "compute1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bytemuck = "1.16.3"
+env_logger = "0.11.5"
+flume = "0.11.0"
+pollster = "0.3.0"
+wgpu = "22.1.0"

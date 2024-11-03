@@ -1,0 +1,12 @@
+[package]
+name = "compute5"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bytemuck = { version = "1.17.0", features = ["derive"] }
+encase = "0.9.0"
+env_logger = "0.11.5"
+flume = "0.11.0"
+pollster = "0.3.0"
+wgpu = "22.1.0"

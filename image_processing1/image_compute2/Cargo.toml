@@ -1,0 +1,12 @@
+[package]
+name = "image_compute2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bytemuck = "1.16.3"
+env_logger = "0.11.5"
+getrandom = "0.2.15"
+image = "0.25.2"
+pollster = "0.3.0"
+wgpu = "22.1.0"

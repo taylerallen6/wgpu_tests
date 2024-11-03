@@ -1,0 +1,14 @@
+[package]
+name = "compute_multiple_times"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bytemuck = "1.16.3"
+env_logger = "0.11.5"
+flume = "0.11.0"
+getrandom = "0.2.15"
+log = "0.4.22"
+pollster = "0.3.0"
+wgpu = "22.1.0"
+
